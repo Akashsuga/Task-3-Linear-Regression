@@ -113,19 +113,6 @@ This model incorporates all numeric and encoded categorical variables.
 
 ---
 
-## 3. Model Evaluation Summary
-
-| Model                   | MAE         | MSE             | R² Score |
-|------------------------|-------------|------------------|----------|
-| Simple Linear Regression | e.g. 7.5e+05 | e.g. 1.1e+12      | ~0.52    |
-| Multiple Linear Regression | e.g. 4.9e+05 | e.g. 5.2e+11      | ~0.74    |
-
-(Use your actual numbers from script output)
-
-✅ Multiple Linear Regression significantly improves performance over simple regression.
-
----
-
 ## 4. Key Learnings
 
 - Area is the most significant driver of price, but other features add valuable context.
@@ -134,9 +121,7 @@ This model incorporates all numeric and encoded categorical variables.
 
 ---
 
-## Folder Structure
-
-Task3-Linear Regression/
+## 
 ├── Housing.csv
 ├── House Price Prediction.py
 ├── README.md
