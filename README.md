@@ -4,7 +4,14 @@
 This project applies both Simple and Multiple Linear Regression to predict house prices using features such as area, number of bedrooms, and furnishing status.
 
 ---
+## Project Contents
+- Housing.csv — Original dataset
+- House Price Prediction.py — Python script for all preprocessing + visualizations + Linear Regression
+- Visual Images — Folder containing all visual plots
+- README.md — This documentation
 
+
+---
 ## Dataset Overview
 
 - Filename: Housing.csv
@@ -120,9 +127,3 @@ This model incorporates all numeric and encoded categorical variables.
 - Visualizations help identify outliers and improve feature selection.
 
 ---
-
-## 
-├── Housing.csv
-├── House Price Prediction.py
-├── README.md
-└── (You can include a screenshots/ folder with plot images)
